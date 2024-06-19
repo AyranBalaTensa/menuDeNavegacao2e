@@ -1,7 +1,7 @@
 .menu{
     display: flex;
     justify-content: center;
-    background-color: #00fd54;
+    background-color: #000000;
     font-size: 24px;
 }
 
@@ -12,6 +12,6 @@
 
 .menu-list-li a{
     text-decoration: none;
-    color: #fff;
+    color: #b700ff;
     padding: 10px;
 }
